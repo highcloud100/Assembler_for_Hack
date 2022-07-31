@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-*.assembly linguist-detectable=false
+*.Assembly linguist-detectable=false
